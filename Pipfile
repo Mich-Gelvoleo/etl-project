@@ -7,8 +7,11 @@ name = "pypi"
 pandas = "*"
 awscli = "*"
 jupyter = "*"
-boto3 = "*"
 pyarrow = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
+boto3 = "*"
 
 [dev-packages]
 
